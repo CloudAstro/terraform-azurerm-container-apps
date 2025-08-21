@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0](https://github.com/CloudAstro/terraform-azurerm-container-apps/compare/v1.0.0...v1.0.0) (2025-08-21)
+
+
+### Features
+
+* add initial container app module ([571ac11](https://github.com/CloudAstro/terraform-azurerm-container-apps/commit/571ac117e00b98e5c0547c74f152c231765ad8f7))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([571ac11](https://github.com/CloudAstro/terraform-azurerm-container-apps/commit/571ac117e00b98e5c0547c74f152c231765ad8f7))
+
 ## 1.0.0 (2025-08-21)
 
 
