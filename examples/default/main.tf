@@ -5,7 +5,7 @@ resource "azurerm_resource_group" "ca-rg" {
 
 module "ca-environment" {
   source  = "CloudAstro/container-app-environment/azurerm"
-  version = "1.0.0"
+  version = "1.1.0"
 
   name                = "ca-env-dev"
   location            = azurerm_resource_group.ca-rg.location
